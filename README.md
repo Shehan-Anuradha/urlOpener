@@ -8,6 +8,7 @@ Pause and Resume: Pause the process after a cluster of URLs or resume it from wh
 Sound Notifications: Get audio alerts for actions like starting, pausing, or finishing the process.
 Exit Anytime: Ensures the program can be safely closed, even during execution.
 Standalone Executable: The script can be converted to an .exe file with a custom icon for ease of use.
+
 Usage:
 Input: Provide a list of URLs in a .txt file.
 Setup: Adjust the settings using the GUI to match your preferences.
